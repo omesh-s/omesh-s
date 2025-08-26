@@ -1,5 +1,6 @@
-
 ## 🚀 Technology Stack
+
+<div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -17,14 +18,34 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
 
+---
+
+<div align="center">
 
 [![Omesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=omesh-s&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)](https://github.com/omesh-s/github-readme-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omesh-s&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5)
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:omesh.reddy18@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/omesh-reddy-sana/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="mailto:omesh.reddy18@gmail.com" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40"/>
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/omesh-reddy-sana/" target="blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
+    </picture>
+  </a>
 </p>
