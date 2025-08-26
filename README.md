@@ -7,7 +7,7 @@ I love exploring projects that combine creativity and problem-solving from devel
 Outside of coding, I’m deeply involved in UI/UX design, open-source contributions, and leadership in student organizations.  
 
 
-
+<br>
 
 
 <h2>🚀 Technology Stack</h2>
@@ -42,7 +42,7 @@ Outside of coding, I’m deeply involved in UI/UX design, open-source contributi
 
 
 
-
+<br>
 
 <h2>🌐 Connect With Me</h2>
 
