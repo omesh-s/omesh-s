@@ -32,20 +32,4 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="mailto:omesh.reddy18@gmail.com" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40"/>
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/omesh-reddy-sana/" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
-    </picture>
-  </a>
-</p>
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="mailto:omesh.reddy18@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/omesh-reddy-sana/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> </p>
