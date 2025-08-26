@@ -6,8 +6,6 @@ I enjoy working across full-stack development, AI/ML, and systems programming, w
 I love exploring projects that combine creativity and problem-solving from developing AI-powered apps to designing user-friendly tools.  
 Outside of coding, I’m deeply involved in UI/UX design, open-source contributions, and leadership in student organizations.  
 
-I’m always looking to learn, collaborate, and push ideas into reality 🚀
-
 
 
 <div align="center">
