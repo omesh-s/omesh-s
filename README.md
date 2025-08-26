@@ -21,6 +21,7 @@
 </div>
 
 ---
+
 <br>
 
 <div align="center">
@@ -28,15 +29,16 @@
 [![Omesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=omesh-s&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)](https://github.com/omesh-s/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omesh-s&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5)
-<br>
+
 </div>
 
 ---
 
 <div align="center">
 
-## 🌐 Connect With Me:
+<h2>🌐 Connect With Me</h2>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omesh.reddy18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omesh-reddy-sana/)
-<br>
+
 </div>
