@@ -8,7 +8,7 @@ Outside of coding, I’m deeply involved in UI/UX design, open-source contributi
 
 
 
-<div align="center">
+
 
 <h2>🚀 Technology Stack</h2>
 
@@ -28,28 +28,24 @@ Outside of coding, I’m deeply involved in UI/UX design, open-source contributi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
 
 
 <br>
 
 <h2>📊 GitHub Stats:</h2>
-<div align="center">
+
 
 [![Omesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=omesh-s&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)](https://github.com/omesh-s/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omesh-s&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5)
 
-</div>
 
 
 
-<div align="center">
+
 
 <h2>🌐 Connect With Me</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omesh.reddy18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omesh-reddy-sana/)
 
-</div>
