@@ -1,6 +1,4 @@
-<div align="center">
-
-<h2>🚀 Technology Stack</h2>
+<h2 align="center">🚀 Technology Stack</h2>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -34,9 +32,7 @@
 
 ---
 
-<div align="center">
-
-<h2>🌐 Connect With Me</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omesh.reddy18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omesh-reddy-sana/)
