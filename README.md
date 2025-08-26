@@ -1,3 +1,15 @@
+## 👋 About Me  
+
+Hi, I’m **Omesh Sana**, a Computer Science student at **UT Dallas** passionate about building impactful technology.  
+I enjoy working across full-stack development, AI/ML, and systems programming, with hands-on experience in **React, Next.js, Python, Java, C/C++/C#, and Swift**.  
+
+I love exploring projects that combine creativity and problem-solving from developing AI-powered apps to designing user-friendly tools.  
+Outside of coding, I’m deeply involved in UI/UX design, open-source contributions, and leadership in student organizations.  
+
+I’m always looking to learn, collaborate, and push ideas into reality 🚀
+
+
+
 <div align="center">
 
 <h2>🚀 Technology Stack</h2>
@@ -20,10 +32,11 @@
 
 </div>
 
----
+
 
 <br>
 
+<h2>📊 GitHub Stats:</h2>
 <div align="center">
 
 [![Omesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=omesh-s&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)](https://github.com/omesh-s/github-readme-stats)
@@ -32,7 +45,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
