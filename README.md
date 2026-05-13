@@ -1,6 +1,6 @@
 ## 👋 About Me  
 
-Hi, I’m **Omesh Sana**, a Computer Science student at **UT Dallas** . I’m passionate about engineering high-performance systems and building intelligent, data-driven applications.
+Hi, I’m **Omesh Sana**, a Computer Science student at **UT Dallas**. I’m passionate about engineering high-performance systems and building intelligent, data-driven applications.
 
 I specialize in full-stack development, AI/ML, and systems programming. My recent work includes:
 * **Document Intelligence**: Developing personal projects focused on automated document processing.
