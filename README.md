@@ -37,12 +37,12 @@ Outside of coding, I’m involved in UI/UX design, open-source contributions, an
 
 <br>
 
-<!--  --><h2>📊 GitHub Stats</h2>
+<!-- <h2>📊 GitHub Stats</h2> -->!
 
 <!-- Fixed Top Langs Card -->
-<!--  -->![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omesh-s&layout=compact&theme=tokyonight&hide_border=true)
+<!--  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omesh-s&layout=compact&theme=tokyonight&hide_border=true) -->!
 
-<!-- -->![Omesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=omesh-s&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- [Omesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=omesh-s&show_icons=true&theme=tokyonight&hide_border=true) -->!
 
 <br>
 
