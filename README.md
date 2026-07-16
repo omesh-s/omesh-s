@@ -11,6 +11,7 @@ Outside of coding, I’m involved in UI/UX design, open-source contributions, an
 
 <br>
 
+
 <h2>🚀 Technology Stack</h2>
 
 ### Languages & Core
